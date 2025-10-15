@@ -33,7 +33,7 @@ export const SideBar = () => {
       className={styles.sideBar}
     >
       <span className={styles.logo}>
-        A/N<span>.</span>
+        IB<span>.</span>
       </span>
       <motion.a
         initial={{ x: -70 }}
