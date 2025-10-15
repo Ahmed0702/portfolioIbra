@@ -22,7 +22,7 @@ const projects = [
     imgSrc: "project-imgs/example-project.jpg",
     code: "https://www.github.com",
     projectLink: "https://www.ajimcapital.com/",
-    tech: ["JS", "Vue", "Phyton"],
+    tech: ["Figma", "Miro", "React"],
     description:
       "A Venture Capital investment company",
     modalContent: (
@@ -53,7 +53,7 @@ const projects = [
     imgSrc: "project-imgs/fullgap.png",
     code: "https://www.github.com",
     projectLink: "https://www.fullgap.co/",
-    tech: ["HTML & CSS3", "Express", "React", "Node"],
+    tech: ["Figma", "React", "Sketch"],
     description:
       "Onboard and chat with your clients, manage and automate your process",
     modalContent: (
@@ -89,7 +89,7 @@ const projects = [
     imgSrc: "project-imgs/raenest.png",
     code: "https://www.github.com",
     projectLink: "https://www.raenest.com/",
-    tech: ["NextJS", "Java", "Vue"],
+    tech: ["Figma", "Java"],
     description:
       "Modern financial tool",
     modalContent: (
@@ -112,7 +112,7 @@ const projects = [
     imgSrc: "project-imgs/seerbit.png",
     code: "https://www.github.com",
     projectLink: "https://www.seerbit.com/",
-    tech: ["React", "HTML", "JavaScript"],
+    tech: ["FIgma", "HTML", "JavaScript"],
     description:
       "A payment gateway solutions company 🌈",
     modalContent: (
