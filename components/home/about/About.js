@@ -13,8 +13,8 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey there! I&apos;m Ahmed, just in case you haven&apos;t  figured that out yet. 
-              I&apos;m a passionate Web Developer and UX/UI Designer eager to kickstart my career in Zurich, Switzerland. 
+              Hey there! I&apos;m ibrahim, just in case you haven&apos;t  figured that out yet. 
+              I&apos;m a passionate UX/UI Designer eager to kickstart my career in Zurich, Switzerland. 
               My expertise lies in frontend development, with a strong foundation in design solutions and a deep love for modern technologies. 
               I thrive on crafting seamless digital experiences that blend innovation with aesthetics. 
             </p>
